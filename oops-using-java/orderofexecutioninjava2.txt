@@ -1,0 +1,6 @@
+gp class static block is executed
+parrent class static block is executed
+child class static block is executed
+gp class method is executed
+parrent class method is executed
+child class method is executed
