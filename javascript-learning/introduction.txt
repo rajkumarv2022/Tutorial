@@ -1,0 +1,13 @@
+what is web development?
+
+Five Pillors of Web development
+ 1)Front-end - user intraction
+ 2)Backend - data stored 
+ API - retrive data from server
+ server - space
+ 3)cloudcomputing
+ 4)devops
+ 5)UI/UX - web design
+ 
+ web design - screenshot of website
+ web creation - developers create the websites.
